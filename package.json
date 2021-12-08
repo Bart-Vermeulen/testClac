@@ -1,0 +1,23 @@
+{
+  "name": "clacDesDoigts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clacDesDoigtsTest.js",
+  "scripts": {
+    "start": "nodemon ClacDesDoigtsTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
